@@ -37,6 +37,7 @@ Tugas Anda dalam penugasan ini adalah membuat aplikasi backend untuk manajemen p
 - Jalankan "php artisan serve" 
     - Jika error silahkan lakukan "composer install" 
     - Copy ".env.exampel" dan ubah nama menjadi ".env" kemudian ubah nama database menjadi "checkstock"
+    - Buat database baru dengan nama "checkstock"
     - Lakukan generate key "php artisan key:generate"
     - Lakukan "php artisan migrate" dan "php artisan db:seed"
 - Login menggunakan : 
