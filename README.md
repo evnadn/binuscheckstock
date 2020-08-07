@@ -1,9 +1,4 @@
 ## TK 1 & 2 Team 4 Web Programming - Binus University
-- EVAN ADRIAN
-- MUHAMMAD AINUR ROZIQIN TAHITYA
-- WILBERT GILCHRIST SYARANAMUAL
-- FLORIBERTUS BASFIANTO
-
 ### Case TK 1
 Buatlah aplikasi pendataan produk menggunakan Laravel untuk membuat proses create, read, update, dan delete (CRUD) sederhana. CRUD merupakan proses standar yang biasa ditemukan pada sebuah sistem aplikasi web. Berikut adalah user stories dari fitur CRUD yang akan kita buat:
 - Pengguna memasukkan data sbb:
